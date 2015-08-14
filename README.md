@@ -14,4 +14,4 @@ Change the content of the 'client_secret'json' file included in the project with
 This step is necessary in order to make the app get the credentials from your account.
 
 ## Importing the project
-When importing the project on VS the refereces must be stored; building and starting the application should automatically solve the problem.
+When importing the project on VS the refereces must be restored; building and starting the application should automatically solve the problem.
