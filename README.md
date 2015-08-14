@@ -12,3 +12,6 @@ Before runnging the application you must create a new application in your Google
 ## Authentication
 Change the content of the 'client_secret'json' file included in the project with the content of the JSON file you downloaded.
 This step is necessary in order to make the app get the credentials from your account.
+
+## Importing the project
+When importing the project on VS the refereces must be stored; building and starting the application should automatically solve the problem.
