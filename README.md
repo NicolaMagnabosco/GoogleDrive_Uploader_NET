@@ -1,6 +1,8 @@
 # Google Drive Uploader - Windows Form App C# .NET
 A simple Windows Form application for uploading file into Google Drive.
 
+![UI Preview](https://cloud.githubusercontent.com/assets/6031269/9305702/5c45a07e-44eb-11e5-880f-86fe0073d483.JPG)
+
 ## Before starting
 Before runnging the application you must create a new application in your Google Deveelopers Console:
    1. Create a new application
